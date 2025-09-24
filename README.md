@@ -1,6 +1,6 @@
 # Descripción del Proyecto
 
-El **Servicio de Salud Metropolitano** está desarrollando un sistema de apoyo basado en **inteligencia artificial** para optimizar el proceso de **derivación de víctimas de delitos** hacia los organismos y centros más adecuados, considerando variables como comuna de residencia, edad, sexo, situación migratoria y tipo de delito, entre otras.  
+Nuestro equipo está desarrollando un sistema de apoyo basado en **inteligencia artificial** para optimizar el proceso de **derivación de víctimas de delitos** hacia los organismos y centros más adecuados, considerando variables como comuna de residencia, edad, sexo, situación migratoria y tipo de delito, entre otras.  
 
 Actualmente, la derivación se realiza de forma manual por parte de funcionarios, quienes deben revisar extensas listas de centros, lo que genera un proceso lento y con alta carga administrativa. El nuevo sistema busca **automatizar esta decisión**, reduciendo tiempos de respuesta y asegurando mayor precisión en la elección del centro de apoyo.  
 
