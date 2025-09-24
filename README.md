@@ -13,7 +13,11 @@ Actualmente, la derivación se realiza de forma manual por parte de funcionarios
 
 - **Frontend en React**  
   - **Módulo de ingreso y registro de derivaciones**: los funcionarios ingresan los datos del caso, reciben la recomendación de la IA y confirman la derivación, que luego se almacena en la base de datos a través de la API.  
-  - **Dashboard interactivo de indicadores (KPIs)**: permite visualizar en tiempo real métricas clave como tiempos de atención, distribución geográfica, tipos de delitos más frecuentes y capacidad de respuesta de los centros.  
+  - **Dashboard interactivo de indicadores (KPIs)**: permite visualizar en tiempo real métricas clave como tiempos de atención, distribución geográfica, tipos de delitos más frecuentes y capacidad de respuesta de los centros.
+ 
+
+<img width="628" height="1200"  alt="ChatGPT Image 24 sept 2025, 15_46_47" src="https://github.com/user-attachments/assets/3481cffa-b74e-40d1-a40d-53ba3a4bb115" />
+ 
 
 ## Impacto esperado
 
